@@ -52,7 +52,7 @@
     "uiv": "^0.34.2",
     "vee-validate": "^2.2.15",
     "vite-plugin-require": "^1.1.10",
-    "vue": "2.7.14",
+    "vue": "3.2.47",
     "vue-apollo": "^3.1.0",
     "vue-chartjs": "^3.4.2",
     "vue-datatables-net": "^1.6.2",
