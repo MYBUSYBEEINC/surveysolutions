@@ -21,7 +21,7 @@
     "autonumeric": "^4.5.3",
     "axios": "^0.24.0",
     "bootbox": "^5.5.3",
-    "bootstrap": "^3.4.1",
+    "bootstrap": "^5.2.3",
     "bootstrap-sass": "^3.4.3",
     "bootstrap-select": "^1.13.18",
     "chart.js": "^2.9.4",
