@@ -59,7 +59,7 @@
         <PackageReference Include="Microsoft.Graph" Version="4.53.0" />
         <PackageReference Include="Microsoft.Graph.Core" Version="2.0.15" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
-        <PackageReference Include="Npgsql" Version="7.0.2" />
+        <PackageReference Include="Npgsql" Version="7.0.7" />
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.3" />
         <PackageReference Include="Refit" Version="6.3.2" />
         <PackageReference Include="prometheus-net" Version="4.1.1" />
