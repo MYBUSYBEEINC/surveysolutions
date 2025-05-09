@@ -30,7 +30,7 @@
     "fast-glob": "^3.2.12",
     "flatpickr": "^4.6.9",
     "graphql-ws": "5.11.2",
-    "i18next": "^22.4.9",
+    "i18next": "^24.2.3",
     "isomorphic-unfetch": "^3.0.0",
     "jquery": "^3.6.3",
     "jquery-contextmenu": "^2.9.2",
