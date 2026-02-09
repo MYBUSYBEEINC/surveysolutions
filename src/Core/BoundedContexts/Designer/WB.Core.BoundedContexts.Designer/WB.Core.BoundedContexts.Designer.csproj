@@ -35,7 +35,7 @@
     <PackageReference Include="CsvHelper" Version="19.0.0" />
     <PackageReference Include="ClosedXML" Version="0.100.3" />
     <PackageReference Include="Dapper" Version="2.0.123" />
-    <PackageReference Include="HtmlSanitizer" Version="8.0.645" />
+    <PackageReference Include="HtmlSanitizer" Version="9.0.892" />
     <PackageReference Include="JsonDiffPatch.Net" Version="2.3.0" />
     <PackageReference Include="Markdig" Version="0.30.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
